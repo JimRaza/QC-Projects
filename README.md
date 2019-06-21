@@ -1,4 +1,10 @@
 # QC-Projects
 Quantum Computing and Information projects in Python
 
-For now, a project I supervised on [entanglement measures by my student Saad](https://github.com/saad440/undergrad-project)
+An undegraduate project I supervised on [entanglement measures by my student Saad](https://github.com/saad440/undergrad-project)
+
+Irfanthesis - draft of an MPhil thesis on using category theory in quantum computing
+
+Masoodthesis - draft of an MPhil thesis on deformed quantum mechanics
+
+both projects have been completed
