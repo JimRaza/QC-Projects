@@ -5,6 +5,6 @@ An undegraduate project I supervised on [entanglement measures by my student Saa
 
 Irfanthesis - draft of an MPhil thesis on using category theory in quantum computing
 
-Masoodthesis - draft of an MPhil thesis on deformed quantum mechanics
+thesis-MASOOD - MPhil thesis on deformed quantum mechanics
 
 both projects have been completed
